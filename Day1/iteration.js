@@ -1,3 +1,4 @@
+// https://github.com/gulshanbauddh/JavaScript/blob/main/Day1/iteration.js
 // // Print 100 numbers from 1 to 100 using a for loop
 // for (let i = 1; i <= 100; i++) {
 //     console.log(i);
